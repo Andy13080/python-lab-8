@@ -49,4 +49,4 @@ plt.figure(figsize=(10, 6))
 plt.imshow(pyramid_img)
 plt.title("Fly Superimposed on Pyramid Image")
 plt.axis("off")
-plt.show().
+plt.show()
