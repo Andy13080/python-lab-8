@@ -23,4 +23,4 @@ axes[3].set_title("Level 3")
 for ax in axes:
     ax.axis("off")
 
-plt.show()
+plt.show().
