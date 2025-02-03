@@ -16,4 +16,4 @@ plt.figure(figsize=(10, 6))
 plt.imshow(image_with_keypoints)
 plt.title("Feature-Based Tracking on Pyramid Image")
 plt.axis("off")
-plt.show()
+plt.show().
