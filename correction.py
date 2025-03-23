@@ -90,4 +90,4 @@ def video_processing():
 if __name__ == '__main__':
     img = cv2.imread('pyramid.jpg')
     image_processing()
-    video_processing()
+    video_processing(),
